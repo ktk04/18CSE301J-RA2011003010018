@@ -4,6 +4,10 @@
 }
 svg {background-color:white;
 border-radius: 5%;}
+
+p{
+    font-size: 1.1rem;
+}
 #particles-js {
     position: fixed;
     width: 100%;
